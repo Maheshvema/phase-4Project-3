@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-3\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\WebAppBankLogin.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-3\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-3\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-3\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\WebAppBankLogin.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-3\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\WebAppBankLogin.deps.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-3\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\WebAppBankLogin.runtimeconfig.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-3\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\WebAppBankLogin.pdb
